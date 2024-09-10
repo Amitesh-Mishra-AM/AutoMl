@@ -1,4 +1,2 @@
-# Ignore all .log files
-*.log
 # Ignore all files in the models directory
 models/
