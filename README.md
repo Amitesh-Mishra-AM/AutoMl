@@ -35,17 +35,23 @@ Our AutoML Streamlit App offers a range of features to streamline your machine l
 
 Here are some screenshots of the AutoML Streamlit App in action:
 
-![Data Ingestion](./images/data_ingestion.png)
+![Data Ingestion](./images/Data_ingestion.png)
 *Data Ingestion Page*
 
-![Data Transformation](./images/data_transformation.png)
+![Data Transformation](./images/Data-Tranformation.png)
 *Data Transformation Page*
 
-![Auto Train ML Models](./images/auto_train.png)
+![Data Transformation](./images/Data-tranformation-2.png)
+*Deleting Features in Data Transformation Page*
+
+![Auto Train ML Models](./images/Auto-train-ml.png)
 *Auto Train ML Models Page*
 
-![Freeze the Learnings](./images/freeze_learnings.png)
+![Freeze the Learnings](./images/Freeze_learning.png)
 *Freeze the Learnings Page*
+
+![Freeze the Learnings](./images/Freeze_learning.png)
+*Downloading SVM model in Freeze the Learnings Page*
 
 ## 🚀 Installation
 
@@ -108,12 +114,6 @@ We welcome contributions to improve the AutoML Streamlit App! Here's how you can
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by [Amitesh Mishra]
 
 If you find this project helpful, please give it a ⭐️!
