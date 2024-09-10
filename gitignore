@@ -1,5 +1,5 @@
 # Ignore all .log files
-*.log
+*.joblib
 
 # Ignore all files in the temp directory
 models/
