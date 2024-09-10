@@ -34,9 +34,9 @@ Our AutoML Streamlit App offers a range of features to streamline your machine l
 ## 📸 Screenshots
 
 Here are some screenshots of the AutoML Streamlit App in action:
-
+<!-- 
 ![Demo Video](./images/demo_vid.mp4)
-*Demo Video*
+*Demo Video* -->
 
 ![Data Ingestion](./images/Data_ingestion.png)
 *Data Ingestion Page*
