@@ -1,6 +1,6 @@
 # 🤖 AutoML Streamlit App
 
-![AutoML Logo](./images/automl_logo.png)
+![AutoML Logo](./images/Auto_ML-removebg-preview.png)
 
 A powerful and user-friendly AutoML application built with Streamlit, empowering users to perform automated machine learning tasks with ease.
 
