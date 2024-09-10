@@ -1,5 +1,9 @@
 # Ignore all .log files
-*.joblib
-
+models/*.joblib
 # Ignore all files in the temp directory
 models/
+models/adaboost.joblib
+models/decision_tree.joblib
+models/linear_regression.joblib
+models/random_forest.joblib
+models/svm.joblib
