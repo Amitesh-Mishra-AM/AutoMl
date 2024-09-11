@@ -138,12 +138,6 @@ We welcome contributions to improve the AutoML Streamlit App! Here's how you can
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by Amitesh Mishra.
 
 If you find this project helpful, please give it a ⭐️!
