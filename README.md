@@ -2,7 +2,7 @@
 
 ![AutoML Logo](images/Auto_Ml_logo.png)
 
-A powerful and user-friendly AutoML application built with Streamlit, empowering users to perform automated machine learning tasks with ease.
+A powerful and user-friendly AutoML application built with Streamlit empowers users to perform automated machine-learning tasks easily.
 
 ## 📋 Table of Contents
 
@@ -12,11 +12,10 @@ A powerful and user-friendly AutoML application built with Streamlit, empowering
 - [Usage](#usage)
 - [Models](#models)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
-Our AutoML Streamlit App offers a range of features to streamline your machine learning workflow:
+Our AutoML App offers a range of features to streamline your machine-learning workflow:
 
 - 📤 **Data Ingestion**: Easily upload your CSV files
 - 🔧 **Data Transformation**: 
@@ -129,7 +128,7 @@ The AutoML Streamlit App supports the following machine learning models:
 
 ## 🤝 Contributing
 
-We welcome contributions to improve the AutoML Streamlit App! Here's how you can contribute:
+We welcome contributions to improve the AutoML App! Here's how you can contribute:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/AmazingFeature`)
