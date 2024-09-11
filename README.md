@@ -1,6 +1,6 @@
 # 🤖 AutoML Streamlit App
 
-![AutoML Logo](./images/Auto_ML-removebg-preview.png)
+![AutoML Logo](./images/Auto_Ml.png)
 
 A powerful and user-friendly AutoML application built with Streamlit, empowering users to perform automated machine learning tasks with ease.
 
@@ -56,6 +56,7 @@ Here are some screenshots of the AutoML Streamlit App in action:
 ![Freeze the Learnings](./images/Freeze_svm_download.png)
 *Downloading SVM model in Freeze the Learnings Page*
 
+
 ## 🚀 Installation
 
 To get started with the AutoML Streamlit App, follow these steps:
@@ -78,8 +79,28 @@ To get started with the AutoML Streamlit App, follow these steps:
 
 4. Install the required packages:
    ```
+   pip install streamlit pandas scikit-learn joblib
+   ```
+
+   Alternatively, you can create a `requirements.txt` file with the following content:
+   ```
+   streamlit
+   pandas
+   scikit-learn
+   joblib
+   ```
+   Then install the requirements using:
+   ```
    pip install -r requirements.txt
    ```
+
+These packages are necessary for running the AutoML Streamlit App:
+- `streamlit`: For creating the web application interface
+- `pandas`: For data manipulation and analysis
+- `scikit-learn`: For machine learning models and utilities
+- `joblib`: For model serialization and deserialization
+
+Make sure you have Python 3.6 or later installed on your system.
 
 ## 🖥️ Usage
 
@@ -117,6 +138,12 @@ We welcome contributions to improve the AutoML Streamlit App! Here's how you can
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
-Made with ❤️ by [Amitesh Mishra]
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by [Your Name/Organization]
 
 If you find this project helpful, please give it a ⭐️!
